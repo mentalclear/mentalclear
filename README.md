@@ -1,5 +1,4 @@
-### Hi there 👋 
-<p>Oops! You have found Dmitrii Kilishek's github profile! Welcome :)</p>
+### Hi there 👋 Oops! You have found Dmitrii Kilishek's github profile! Welcome :)
 
 <p>👨‍🦲 Bio: A 🇺🇸 based Software Tester, Lifelong Learner, Former Sysadmin, In IT since 1994, From: 🇷🇺 with ❤️"</p>
 
